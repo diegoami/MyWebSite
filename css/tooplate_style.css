@@ -64,7 +64,7 @@ h6 { font-size: 14px; margin: 0 0 5px; padding: 0; }
 .float_l { float: left }
 .float_r { float: right }
 
-.image_wrapper { 
+.image_wrapper {
 	display: inline-block; 
 	padding: 5px 5px 15px; 
 	background: #fff url(../images/tooplate_image_frame.jpg) no-repeat bottom center; 
@@ -152,7 +152,7 @@ h6 { font-size: 14px; margin: 0 0 5px; padding: 0; }
 
 #tooplate_menu { 
 	float: right; 
-	width: 280px;
+	width: 500px;
 	height: 62px; 
 	padding: 0; 
 }
@@ -213,7 +213,9 @@ h6 { font-size: 14px; margin: 0 0 5px; padding: 0; }
  	background: url(../images/tooplate_home_hover.png) center center no-repeat; 
  }
 
-#tooplate_menu ul li span.aboutus {  
+
+
+#tooplate_menu ul li span.aboutus {
 	background: url(../images/tooplate_aboutus.png) center center no-repeat; 
 }
 
@@ -229,12 +231,54 @@ h6 { font-size: 14px; margin: 0 0 5px; padding: 0; }
 	background: url(../images/tooplate_services_hover.png) center center no-repeat; 
 }
 
-#tooplate_menu ul li span.portfolio {  
-	background: url(../images/tooplate_portfolio.png) center center no-repeat; 
+#tooplate_menu ul li span.travel {
+	background: url(../images/tooplate_travel.png) center center no-repeat;
 }
 
-#tooplate_menu ul li span.portfolio:hover {  
-	background: url(../images/tooplate_portfolio_hover.png) center center no-repeat; 
+#tooplate_menu ul li span.travel:hover {
+	background: url(../images/tooplate_travel_hover.png) center center no-repeat;
+}
+
+#tooplate_menu ul li span.programming {
+	background: url(../images/tooplate_python.png) center center no-repeat;
+}
+
+#tooplate_menu ul li span.programming:hover {
+	background: url(../images/tooplate_python_hover.png) center center no-repeat;
+}
+
+
+#tooplate_menu ul li span.webapp {
+	background: url(../images/tooplate_webapp.png) center center no-repeat;
+}
+
+#tooplate_menu ul li span.webapp:hover {
+	background: url(../images/tooplate_webapp_hover.png) center center no-repeat;
+}
+
+#tooplate_menu ul li span.music{
+	background: url(../images/tooplate_music.png) center center no-repeat;
+}
+
+#tooplate_menu ul li span.music:hover {
+	background: url(../images/tooplate_music_hover.png) center center no-repeat;
+}
+
+#tooplate_menu ul li span.delphi{
+	background: url(../images/tooplate_delphi.png) center center no-repeat;
+}
+
+#tooplate_menu ul li span.delphi:hover {
+	background: url(../images/tooplate_delphi_hover.png) center center no-repeat;
+}
+
+
+#tooplate_menu ul li span.music{
+	background: url(../images/tooplate_music.png) center center no-repeat;
+}
+
+#tooplate_menu ul li span.music:hover {
+	background: url(../images/tooplate_music_hover.png) center center no-repeat;
 }
 
 #tooplate_menu ul li span.contactus {  
