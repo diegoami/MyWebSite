@@ -127,7 +127,7 @@ h6 { font-size: 14px; margin: 0 0 5px; padding: 0; }
 
 #site_title { 
 	float: left; 
-	width: 210px; 
+	width: 210px;
 	height: 60px;  
 }
 
@@ -166,7 +166,7 @@ h6 { font-size: 14px; margin: 0 0 5px; padding: 0; }
 #tooplate_menu ul li { 
 	float: left; 
 	display: block; 
-	width: 80px;
+	width: 95px;
 	padding-right: 2px; 
 	height: 60px; 
 	padding: 0; 
